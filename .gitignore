@@ -1,0 +1,5 @@
+# Ignore files for Python Django projects
+*.pyc
+*.pyo
+*.db
+__pycache__
